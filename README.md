@@ -1,5 +1,8 @@
 # KohiSop 2.0
 
+Disusun oleh  : Alexandra Pritha Sari - 245150401111006
+Diunggah pada : 11 Juni 2025
+
 KohiSop adalah sebuah Java untuk program kasir untuk cafe sederhana, pada versi kedua ini disertai dengan Struktur Data, Class Membership, dan Proses Pemesanan Dapur yang lebih kompleks
 Untuk menjalankan program ini di device lokal Anda, ikuti langkah-langkah di bawah ini. Flow program :
 1. Menampilkan daftar menu
